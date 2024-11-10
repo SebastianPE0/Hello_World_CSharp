@@ -39,5 +39,7 @@ docker stop hello_world_csharp
 ---
 ## To remove the container after stopping it:
 
-´docker rm hello_world_csharp´
+~~~
+docker rm hello_world_csharp
+~~~
 
