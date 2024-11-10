@@ -1,13 +1,12 @@
-# Hello_World_CSharp
 
 
 # Hello World in ASP.NET
 **This repository contains a simple "Hello World" application built using ASP.NET, which displays "Hello World" in the browser. The project is containerized with Docker, making it easy to run on any system that has Docker installed.**
-
+---
 ## Requirements
 - Docker desktop installed on your system.
 
-
+---
 ## Quick Start
 To get started with running this project locally, follow these steps:
 
@@ -37,6 +36,7 @@ To stop the container, use the following command:
 ~~~
 docker stop hello_world_csharp
 ~~~
+---
 ## To remove the container after stopping it:
 
 ´docker rm hello_world_csharp´
