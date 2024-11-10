@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLRK1jZozhPqMiDlHG/k+mMS/0PsLEyQBopKrABUsctLHv1JNFcS7pN7YjaZHf7I6C3Lxbv7LebbyKwqCnvX5A==",
+  "success": true,
+  "projectFilePath": "C:\\Programacion Distribuida\\Hello_World_CSharp\\Hello_World_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEBPE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
